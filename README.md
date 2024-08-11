@@ -1,2 +1,2 @@
 # learning
-Projects done while doing some courses
+stuff done while doing courses and other learning activities
